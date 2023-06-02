@@ -1,1 +1,1 @@
-# Heyy Git was installed sucessfully
+# Heyy Git was installed sucessfully!!
